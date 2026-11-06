@@ -1,43 +1,52 @@
-# Hi, I'm Timsi Thukral 👋
+# Hi, I'm Timsi 👋
 
-🎓 BCA 3rd Semester Student | 💻 Aspiring Data Analyst
+### BCA Student | Aspiring Web Developer
 
-I'm a BCA student passionate about data analytics, programming, and building practical projects. I'm currently developing my skills in SQL, Excel, Python, Power BI, and Java while looking for internship opportunities where I can learn and gain real-world experience.
+I'm a BCA student building my skills in web development through hands-on projects and practical problem solving.
 
-## 🛠️ Skills
+I enjoy turning ideas into clean, responsive and interactive websites, and I'm currently focused on strengthening my JavaScript fundamentals and moving into modern web development.
 
-- SQL
-- Microsoft Excel
-- Python
-- Power BI
-- Java
-- HTML & CSS
-- Git & GitHub
+## 🛠️ Tech Stack
 
-## 🌐 Portfolio
+### Web Development
+HTML5 · CSS3 · JavaScript
 
-🔗 [View My Portfolio] (https://codebytimsi.github.io/portfolio/
+### Programming
+Java · Python
 
-## 🔗 Connect With Me
+### Data & Database
+SQL · Excel · Power BI
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/timsi-thukral-325b06448)
-- 📧 Email: thukraltimsi@gmail.com
+### Tools
+Git · GitHub · GitHub Pages
+
+## 🌱 Currently Learning
+
+- React.js
+- Node.js
+- Express.js
+- REST APIs
+- Modern JavaScript
+
+## 🚀 Featured Project
+
+### SITARA — Jewellery E-Commerce Website
+
+A responsive jewellery e-commerce website built with HTML, CSS and JavaScript.
+
+**Features:** Dynamic products · Search · Filtering · Sorting · Product pages · Quantity controls · Cart · LocalStorage · Responsive design
+
+🔗 [Live Demo](https://codebytimsi.github.io/sitara-jewellery-store/)  
+📂 [Source Code](https://github.com/codebytimsi/sitara-jewellery-store)
+
+## 🎯 My Goal
+
+To become a strong full-stack web developer by building real-world projects, improving my problem-solving skills, and continuously learning modern technologies.
+
+## 📌 Portfolio
+
+🌐 https://codebytimsi.github.io/portfolio/
 
 ---
 
-⭐ Thanks for visiting my profile!
-
-<!--
-**codebytimsi/codebytimsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Building projects. Learning every day. Growing one commit at a time.* ✦
